@@ -13,7 +13,7 @@ script: ./bin/ci/script.sh
 notifications:
   email:
     recipients:
-      - mateusz@loskot.net
+      - vkpr15@gmail.com
   on_success: change # [always|never|change] # default: change
   on_failure: always # [always|never|change] # default: always
 
